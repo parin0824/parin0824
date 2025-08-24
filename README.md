@@ -51,11 +51,9 @@
 
 ## 🤝 Connect With Me  
 
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/parin824/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Parin%20Mistry-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
 </p>
 
