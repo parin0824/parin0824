@@ -10,9 +10,8 @@
 
 ## 🚀 About Me
 
-* 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
-* 📡 Hands-on with **SystemVerilog, UVM, Verilog, Python, and C++**.
-* ⚡ Passionate about **SoC Design, Verification Methodologies, and Low-Power Digital Systems**.
+* 🎓 Graduate student in **Electrical Engineering** at **San Jose State University**
+* ⚡ Passionate about **SoC Design, Verification, and Low-Power Digital Systems**
 
 <!-- THEME DIVIDER -->
 
