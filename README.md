@@ -9,7 +9,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🚀 About Me
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 * 🎓 Graduate student in **Electrical Engineering** at **San Jose State University**
 * ⚡ Passionate about **SoC Design, Verification, and Low-Power Digital Systems**
