@@ -6,7 +6,7 @@
 
 <!-- THEME DIVIDER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🚀 About Me
 
