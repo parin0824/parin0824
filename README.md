@@ -8,7 +8,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-## 🚀 About Me
+ 🚀 About Me
 
 * 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
 * 📡 Hands-on with **SystemVerilog, UVM, Verilog, Python, and C++**.
