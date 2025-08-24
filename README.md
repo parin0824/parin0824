@@ -43,6 +43,9 @@
 ---
 
 ## 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parin0824&theme=github-dark&hide_border=true" alt="Activity Graph" />
+</p>
 
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Yugp72&theme=dark&hide_border=true" alt="GitHub Streak" />
