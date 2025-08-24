@@ -6,7 +6,7 @@
 
 
 
-## 🚀 About Me <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+## 🚀 About Me 
 
 
 - 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).  
@@ -16,6 +16,9 @@
 ---
 
 ## 🛠 Technical Skills  
+<p align="center">
+  <img src="https://media.giphy.com/media/Ll22OhMLAlVDb8UQWe/giphy.gif" width="200" alt="orbit" />
+</p>
 
 **Languages & Frameworks**  
 - SystemVerilog, SVA, Verilog, UVM, Python, C/C++, Shell  
