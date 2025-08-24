@@ -31,26 +31,6 @@
 
 ---
 
-## 📂 Projects  
-
-### 🔹 Design and Verification of Cache Memory Controller  
-- Implemented **1KB direct-mapped cache** with write-back & write-allocate policies.  
-- Built **4-state FSM controller** and testbench validation on **Nexys-4 FPGA**.  
-
-### 🔹 Floating Point Multiply-Accumulate Unit (FP8 MAC)  
-- Designed a **pipelined FP8 (E4M3) MAC unit** in Verilog.  
-- Verified correctness with **dot-product test cases** for cycle-by-cycle accuracy.  
-
-### 🔹 Asynchronous FIFO  
-- Designed a **128-bit asynchronous FIFO** with **Gray-coded pointers** and CDC-safe synchronization.  
-- Implemented **full/empty detection & threshold alerts**, validated in AMD Vivado.  
-
-### 🔹 ML-Based Network Packet Classifier  
-- Trained a **decision tree classifier** (94.6% accuracy) for real-world traffic data.  
-- Converted ML model into **low-power, pipelined SystemVerilog module** with clock gating.  
-
----
-
 ## 📜 Certifications  
 
 - **SystemVerilog Essentials – Udemy** (July 2025)  
@@ -63,7 +43,7 @@
 <p align="center">
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Yugp72&theme=dark&hide_border=true" alt="GitHub Streak" />
   <br><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yugp72&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
@@ -71,7 +51,7 @@
 ## 🤝 Connect With Me  
 
 <p align="center">
-<a href="https://www.linkedin.com/in/parinhemangmistry/" target="_blank">
+<a href="https://www.linkedin.com/in/parin824/" target="_blank">
   <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
 </a>
 </p>
