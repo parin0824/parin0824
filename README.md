@@ -54,9 +54,7 @@
 ---
 
 ## 🤝 Connect With Me  
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="120" alt="arrow" />
-</p>
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/parin824/" target="_blank">
