@@ -11,6 +11,10 @@
 </div>
 
 ---
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/00000000/placeholder-shimmer.gif" width="70%" alt="divider" />
+</p>
+
 
 ## 🚀 About Me  
 
