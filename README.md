@@ -1,7 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=header&animation=twinkling" width="100%" />
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF7F7&center=true&vCenter=true&width=800&lines=Hi,I'm Parin+Mistry;Digital+Design+%7C+ASIC+%7C+FPGA%+%7C+Verification;" alt="animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF7F7&center=true&vCenter=true&width=800&lines=Hi, I'm+Parin+Mistry;Digital+Design+%7C+ASIC+%7C+FPGA+%7C+Verification" alt="animated header" />
 </p>
 
 
