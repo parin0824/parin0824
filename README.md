@@ -1,5 +1,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1200&center=true&vCenter=true&width=750&lines=ASIC%2FFPGA+Enthusiast+%7C+Digital+Design+%26+Verification;SystemVerilog+%7C+UVM+%7C+Verilog+%7C+Python+%7C+C%2B%2B;Low+Power+SoC+Design+%7C+SJSU+MS+EE" alt="Typing SVG" />
+</p>
 <div align="center">
   
 # Hi 👋, I'm Parin Mistry  
