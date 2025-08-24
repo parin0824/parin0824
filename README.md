@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 <p align="center">
@@ -8,17 +9,17 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
- 🚀 About Me
+## 🚀 About Me
 
-*🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
-*📡 Hands-on with **SystemVerilog, UVM, Verilog, Python, and C++**.
-*⚡ Passionate about **SoC Design, Verification Methodologies, and Low-Power Digital Systems**.
+* 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
+* 📡 Hands-on with **SystemVerilog, UVM, Verilog, Python, and C++**.
+* ⚡ Passionate about **SoC Design, Verification Methodologies, and Low-Power Digital Systems**.
 
 <!-- THEME DIVIDER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
- 🛠 Technical Skills
+## 🛠 Technical Skills
 
 **Languages & Frameworks**
 
@@ -36,7 +37,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-📜 Certifications
+## 📜 Certifications
 
 * **SystemVerilog Essentials – Udemy** (July 2025)
 * **UVM Essentials – Udemy** (August 2025)
@@ -45,22 +46,27 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p align="center" style="font-family:Orbitron;">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
+<!-- Optional animated activity graph (tokyonight style) -->
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parin0824&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
 
 <!-- THEME DIVIDER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-🤝 Connect With Me
+## 🤝 Connect With Me
 
-<p align="center" style="font-family:Orbitron;">
+<p align="center">
   <a href="https://www.linkedin.com/in/parin824/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
@@ -70,7 +76,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-<div align="center" style="font-family:Orbitron;">
+<div align="center">
 
 [![](https://visitcount.itsvg.in/api?id=Yugp72\&icon=3\&color=6)](https://visitcount.itsvg.in)
 
