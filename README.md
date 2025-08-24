@@ -1,4 +1,5 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:00C9FF,100:92FE9D&section=header&animation=twinkling" width="100%" />
 
 <div align="center">
   
@@ -64,5 +65,6 @@
 [![](https://visitcount.itsvg.in/api?id=Yugp72&icon=3&color=6)](https://visitcount.itsvg.in)  
 
 </div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:92FE9D,100:00C9FF&section=footer&animation=twinkling" width="100%" />
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
