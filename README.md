@@ -4,6 +4,9 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=0FF7F7&center=true&vCenter=true&width=800&lines=Hi,+I'm+Parin+Mistry;Digital+Design+%7C+ASIC+%7C+FPGA+%7C+Verification" alt="animated header" />
 </p>
 
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/163886798-6f2b-43d0-98df-fd71e04395b3.gif" width="70%" alt="divider" />
+</p>
 
 
 ## 🚀 About Me  
