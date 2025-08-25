@@ -68,7 +68,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
 
 <p align="center">
@@ -101,4 +100,3 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=footer&animation=twinkling" width="100%" />
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
