@@ -65,10 +65,16 @@
 
 ## 📊 GitHub Stats
 
-<p align="center" style="font-family:Orbitron;">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</p>
+
 
 <!-- Optional animated activity graph (tokyonight style) -->
 
