@@ -44,10 +44,11 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="200"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450"/>
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" width="450"/>
+</p>
 
 
 
