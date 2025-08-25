@@ -67,16 +67,12 @@
 ## 📊 GitHub Stats
 
 <p align="center" style="font-family:Orbitron;">
-  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
 
 <!-- Optional animated activity graph (tokyonight style) -->
 
-<p align="center" style="font-family:Orbitron;">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parin0824&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
-</p>
 
 <!-- THEME DIVIDER -->
 
