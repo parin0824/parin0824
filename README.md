@@ -1,3 +1,4 @@
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 <p align="center">
@@ -6,14 +7,17 @@
 
 <!-- THEME DIVIDER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🚀 About Me
 
-* 🎓 Graduate student in **Electrical Engineering** at **San Jose State University**
-* ⚡ Passionate about **SoC Design, Verification, and Low-Power Digital Systems**
+* 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
+* 📡 Hands-on with **SystemVerilog, UVM, Verilog, Python, and C++**.
+* ⚡ Passionate about **SoC Design, Verification Methodologies, and Low-Power Digital Systems**.
 
 <!-- THEME DIVIDER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🛠 Technical Skills
 
@@ -31,6 +35,7 @@
 
 <!-- THEME DIVIDER -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 📜 Certifications
 
@@ -39,39 +44,47 @@
 
 <!-- THEME DIVIDER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
-
-## 📊 GitHub Stats
+## 🔬 Featured Projects
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" width="450"/>
+  <a href="https://github.com/parin0824/ML-Network-Packet-Classifier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=ML-Network-Packet-Classifier&theme=tokyonight&hide_border=true" alt="ML Network Packet Classifier"/>
+  </a>
+  <a href="https://github.com/parin0824/Cache-Memory-Controller">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=Cache-Memory-Controller&theme=tokyonight&hide_border=true" alt="Cache Memory Controller"/>
+  </a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true&card_width=450" alt="Top Languages" width="450"/>
+  <a href="https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=128-Bit-Asynchronous-Gray-Code-FIFO&theme=tokyonight&hide_border=true" alt="128-Bit Asynchronous Gray Code FIFO"/>
+  </a>
 </p>
-
-
 
 <!-- THEME DIVIDER -->
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
+## 📊 GitHub Stats
 
-
-## 🔬 Featured Projects  
-
-<p align="center">
-  <a href="https://github.com/parin0824/async-fifo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=async-fifo&theme=tokyonight" />
-  </a>
-  <a href="https://github.com/parin0824/matrix-multiplier">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=matrix-multiplier&theme=tokyonight" />
-  </a>
+<p align="center" style="font-family:Orbitron;">
+  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=parin0824&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+
+<!-- Optional animated activity graph (tokyonight style) -->
+
+<p align="center" style="font-family:Orbitron;">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=parin0824&theme=tokyo-night&hide_border=true" alt="Activity Graph" />
+</p>
+
+<!-- THEME DIVIDER -->
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🤝 Connect With Me
 
-<p align="center">
+<p align="center" style="font-family:Orbitron;">
   <a href="https://www.linkedin.com/in/parin824/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="50" height="50"/>
   </a>
@@ -79,8 +92,9 @@
 
 <!-- THEME DIVIDER -->
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
-<div align="center">
+<div align="center" style="font-family:Orbitron;">
 
 [![](https://visitcount.itsvg.in/api?id=Yugp72\&icon=3\&color=6)](https://visitcount.itsvg.in)
 
@@ -88,3 +102,4 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=footer&animation=twinkling" width="100%" />
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
