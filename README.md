@@ -56,6 +56,19 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
+
+
+## 🔬 Featured Projects  
+
+<p align="center">
+  <a href="https://github.com/parin0824/async-fifo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=async-fifo&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/parin0824/matrix-multiplier">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=matrix-multiplier&theme=tokyonight" />
+  </a>
+</p>
+
 ## 🤝 Connect With Me
 
 <p align="center">
