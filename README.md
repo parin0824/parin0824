@@ -54,7 +54,19 @@
   <a href="https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=128-Bit-Asynchronous-Gray-Code-FIFO&theme=tokyonight&hide_border=true" alt="128-Bit Asynchronous Gray Code FIFO"/>
   </a>
+  <a href="https://github.com/parin0824/AXI-Lite-Memory">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=AXI-Lite-Memory&theme=tokyonight&hide_border=true" alt="AXI Lite Memory"/>
+  </a>
 </p>
+<p align="center">
+  <a href="https://github.com/parin0824/APB-Protocol">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=APB-Protocol&theme=tokyonight&hide_border=true" alt="APB Protocol"/>
+  </a>
+  <a href="https://github.com/parin0824/FP8-MAC-Unit">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=parin0824&repo=FP8-MAC-Unit&theme=tokyonight&hide_border=true" alt="FP8 MAC Unit"/>
+  </a>
+</p>
+
 
 <!-- THEME DIVIDER -->
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
