@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi,+I'm +Parin;Digital+Design+%7C+ASIC+%7C+FPGA+%7C+Verification" alt="animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=800&lines=Hi,+""+I'm+Parin;Digital+Design+%7C+ASIC+%7C+FPGA+%7C+Verification" alt="animated header" />
 </p>
 
 <!-- THEME DIVIDER -->
