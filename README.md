@@ -11,8 +11,8 @@
 ## 🚀 About Me
 
 * 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0).
+* ⚡ Passionate about **SoC Design, Verification, and Basketball.
 * 📡Relevant Coursework: Digital Design and Synthesis, Advanced Computer Architectures, SoC Design and Verification with System Verilog, Embedded Systems Design
-* ⚡ Passionate about **SoC Design, Verification Methodologies, and Low-Power Digital Systems**.
 
 <!-- THEME DIVIDER -->
 
