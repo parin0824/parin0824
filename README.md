@@ -9,7 +9,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## 🚀 About Me
-
+* 🏆 Placed **3rd in a  Hackathon** for designing a Machine Learning based Network Packet Classifier  
 * 🎓 Graduate student in **Electrical Engineering** at **San Jose State University** (GPA: 3.8/4.0)  
 * ⚡ Passionate about **ASIC/SoC Design, Functional Verification, and Low-Power Architectures**  
 * 📡 Relevant Coursework: Digital System Design and Synthesis, Advanced Computer Architectures, SoC Design and Verification with SystemVerilog, Embedded Systems Design, Technical Writing and Engineering Ethics  
