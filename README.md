@@ -42,12 +42,7 @@
 * Guided students in Continuous & Discrete Time Systems Lab (Python, MATLAB, LTspice).  
 * Assisted with circuit implementation, troubleshooting, grading, and feedback.  
 
-**Design Verification Engineer – Tata Consultancy Services, India (Aug 2023 – Dec 2024)**  
-* Developed UVM/SystemVerilog testbenches for block- and chip-level verification.  
-* Performed CDC/RDC verification, functional coverage, and constrained-random testing.  
-* Verified SPI protocol edge cases, multi-byte transfers, and error scenarios.  
-
-**Systems Engineer – Tata Consultancy Services, India (Dec 2021 – Jul 2023)**  
+**Systems Engineer – Tata Consultancy Services, India (Dec 2021 – Dec 2024)**  
 * Designed functional test cases replicating real-world behavior across global teams.  
 * Automated test flows with Python & Selenium, reducing manual effort and enabling CI/CD.  
 
