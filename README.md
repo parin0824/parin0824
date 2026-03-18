@@ -4,17 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi,+I'm+Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" alt="animated header" />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/parin824/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Parin%20Mistry-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:parinmistry0312@gmail.com">
-    <img src="https://img.shields.io/badge/Email-parinmistry0312%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-  <a href="https://github.com/parin0824" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-parin0824-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-</p>
+
 
 <!-- THEME DIVIDER -->
 
