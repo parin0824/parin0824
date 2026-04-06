@@ -1,10 +1,10 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi,+I'm+Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=7F5AF0&center=true&vCenter=true&width=900&lines=Parin+Mistry;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## About Me
 
@@ -13,7 +13,7 @@
 - 3rd place – AI Chip Design Hackathon (ML Packet Classifier)
 - Target roles: ASIC Design / Verification
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## Technical Skills
 
@@ -22,7 +22,7 @@
 - **Protocols:** SPI, I2C, UART, APB, AHB, AXI Lite  
 - **Tools:** Synopsys VCS, Design Compiler, PrimeTime, Vivado, Git, Jira, NumPy, Pandas  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## Experience
 
@@ -36,71 +36,74 @@
 - Test automation (Python + Selenium)  
 - 100+ bug fixes, 20+ critical defects caught  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## Highlighted Projects
 
 <table>
 <tr>
-<td width="50%">
+<td width="50%" style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
 
-### Cache Memory Controller  
-Direct-mapped cache with FSM-based control, tag comparison, and memory interface.  
+<b>Cache Memory Controller</b><br><br>
+Direct-mapped cache with FSM-based control, tag comparison, and memory interface.<br><br>
 🔗 https://github.com/parin0824/Cache-Memory-Controller  
 
 </td>
-<td width="50%">
 
-### FP8 MAC Unit  
-Low-precision floating-point MAC optimized for performance and hardware efficiency.  
+<td width="50%" style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+
+<b>FP8 MAC Unit</b><br><br>
+Floating-point MAC optimized for compact precision and hardware efficiency.<br><br>
 🔗 https://github.com/parin0824/FP8-MAC-Unit  
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
 
-### 128-bit Async Gray FIFO  
-Dual-clock FIFO using Gray code pointer synchronization for CDC safety.  
+<b>128-bit Async Gray FIFO</b><br><br>
+Dual-clock FIFO using Gray code pointer synchronization for safe CDC crossing.<br><br>
 🔗 https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO  
 
 </td>
-<td>
 
-### AXI-Lite Memory  
-Memory-mapped AXI-Lite slave with protocol-compliant read/write transactions.  
+<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+
+<b>AXI-Lite Memory</b><br><br>
+Memory-mapped AXI-Lite slave with protocol-compliant read/write transactions.<br><br>
 🔗 https://github.com/parin0824/AXI-Lite-Memory  
 
 </td>
 </tr>
 
 <tr>
-<td>
+<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
 
-### ML Packet Classifier  
-Hardware-oriented traffic classifier using ML features and pipeline design.  
+<b>ML Packet Classifier</b><br><br>
+Hardware-aware ML-based packet classification pipeline.<br><br>
 🔗 https://github.com/parin0824/ML-Network-Packet-Classifier  
 
 </td>
-<td>
 
-### APB Protocol Design  
-AMBA APB interface implementation with peripheral communication support.  
+<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+
+<b>APB Protocol Design</b><br><br>
+AMBA APB interface implementation for peripheral communication.<br><br>
 🔗 https://github.com/parin0824/APB-Protocol  
 
 </td>
 </tr>
 </table>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## Certifications
 
 - SystemVerilog Essentials – Udemy  
 - UVM Essentials – Udemy  
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
 ## Connect
 
@@ -114,4 +117,4 @@ AMBA APB interface implementation with peripheral communication support.
   </a>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=footer&animation=fadeIn" width="100%" />
