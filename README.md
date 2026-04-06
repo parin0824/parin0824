@@ -71,8 +71,7 @@ Systems Engineer — TCS (Dec 2021 – Dec 2024)
 <p align="left">
   <img src="https://img.shields.io/badge/FSM%20Control-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/Tag%20Compare-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/Memory%20Interface-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-</p>
+  </p>
 
 <div align="left">
 
@@ -183,7 +182,6 @@ Memory-mapped control structure
 <p align="left">
   <img src="https://img.shields.io/badge/ML%20Model-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/Pipeline%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/Traffic%20Classification-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
 </p>
 
 <div align="left">
