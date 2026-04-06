@@ -40,61 +40,141 @@
 
 ## Highlighted Projects
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7F5AF0" width="80%" />
+</p>
+
 <table>
 <tr>
-<td width="50%" style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td width="50%">
 
-<b>Cache Memory Controller</b><br><br>
-Direct-mapped cache with FSM-based control, tag comparison, and memory interface.<br><br>
-🔗 https://github.com/parin0824/Cache-Memory-Controller  
+<div align="center">
+
+### **Cache Memory Controller**
+
+</div>
+
+```text
+────────────────────────────
+Direct-mapped cache design
+FSM-based control logic
+Tag + data handling
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/Cache-Memory-Controller](https://github.com/parin0824/Cache-Memory-Controller)
 
 </td>
 
-<td width="50%" style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td width="50%">
 
-<b>FP8 MAC Unit</b><br><br>
-Floating-point MAC optimized for compact precision and hardware efficiency.<br><br>
-🔗 https://github.com/parin0824/FP8-MAC-Unit  
+<div align="center">
+
+### **FP8 MAC Unit**
+
+</div>
+
+```text
+────────────────────────────
+Floating-point MAC unit
+Optimized precision (FP8)
+High-speed arithmetic
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/FP8-MAC-Unit](https://github.com/parin0824/FP8-MAC-Unit)
 
 </td>
 </tr>
 
 <tr>
-<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td>
 
-<b>128-bit Async Gray FIFO</b><br><br>
-Dual-clock FIFO using Gray code pointer synchronization for safe CDC crossing.<br><br>
-🔗 https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO  
+<div align="center">
+
+### **128-bit Async Gray FIFO**
+
+</div>
+
+```text
+────────────────────────────
+Dual-clock FIFO design
+Gray code synchronization
+Robust CDC handling
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO](https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO)
 
 </td>
 
-<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td>
 
-<b>AXI-Lite Memory</b><br><br>
-Memory-mapped AXI-Lite slave with protocol-compliant read/write transactions.<br><br>
-🔗 https://github.com/parin0824/AXI-Lite-Memory  
+<div align="center">
+
+### **AXI-Lite Memory**
+
+</div>
+
+```text
+────────────────────────────
+AXI-Lite slave interface
+Memory-mapped operations
+Protocol-compliant design
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/AXI-Lite-Memory](https://github.com/parin0824/AXI-Lite-Memory)
 
 </td>
 </tr>
 
 <tr>
-<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td>
 
-<b>ML Packet Classifier</b><br><br>
-Hardware-aware ML-based packet classification pipeline.<br><br>
-🔗 https://github.com/parin0824/ML-Network-Packet-Classifier  
+<div align="center">
+
+### **ML Packet Classifier**
+
+</div>
+
+```text
+────────────────────────────
+ML-based classification
+Pipeline-aware hardware
+Feature-driven design
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/ML-Network-Packet-Classifier](https://github.com/parin0824/ML-Network-Packet-Classifier)
 
 </td>
 
-<td style="border: 1px solid #7F5AF0; border-radius: 12px; padding: 12px;">
+<td>
 
-<b>APB Protocol Design</b><br><br>
-AMBA APB interface implementation for peripheral communication.<br><br>
-🔗 https://github.com/parin0824/APB-Protocol  
+<div align="center">
+
+### **APB Protocol Design**
+
+</div>
+
+```text
+────────────────────────────
+AMBA APB interface
+Peripheral communication
+Lightweight bus design
+────────────────────────────
+```
+
+🔗 [https://github.com/parin0824/APB-Protocol](https://github.com/parin0824/APB-Protocol)
 
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=7F5AF0" width="80%" />
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=0:0b0f1a,50:1a1b27,100:2b0a3d&section=header&animation=fadeIn" width="100%" />
 
