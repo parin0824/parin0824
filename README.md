@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi,+I'm+Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" alt="animated header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&pause=1000&color=70A5FD&center=true&vCenter=true&width=900&lines=Hi,+I'm+Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
@@ -17,69 +17,88 @@
 
 ## Technical Skills
 
-- **Languages & HDL:** SystemVerilog, Verilog, Python, C/C++, Bash
-- **Verification & Design:** UVM, SVA, Covergroups, CDC, Cache, Virtual Memory, STA, Pipelining, SIMD, FSM, OOP
-- **Protocols:** SPI, I2C, UART, APB, AHB, AXI Lite
-- **Tools:** Synopsys VCS, Design Compiler, PrimeTime, Vivado, Git, Jira, NumPy, Pandas
+- **Languages & HDL:** SystemVerilog, Verilog, Python, C/C++, Bash  
+- **Verification & Design:** UVM, SVA, Covergroups, CDC, Cache, Virtual Memory, STA, Pipelining, SIMD, FSM, OOP  
+- **Protocols:** SPI, I2C, UART, APB, AHB, AXI Lite  
+- **Tools:** Synopsys VCS, Design Compiler, PrimeTime, Vivado, Git, Jira, NumPy, Pandas  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## Experience
 
 ### Teaching Associate — SJSU  
-**Aug 2025 – Present**
-- Lab guidance, debugging, grading
-- Supporting students in Python and LTspice labs
+**Aug 2025 – Present**  
+- Lab guidance, debugging, grading  
+- Python and LTspice support  
 
 ### Systems Engineer — TCS  
-**Dec 2021 – Dec 2024**
-- Test automation using Python and Selenium
-- Resolved 100+ bugs and helped catch 20+ critical defects
+**Dec 2021 – Dec 2024**  
+- Test automation (Python + Selenium)  
+- 100+ bug fixes, 20+ critical defects caught  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## Highlighted Projects
 
-### RTL / Digital Design Projects
+<table>
+<tr>
+<td width="50%">
 
-- **[Cache Memory Controller](https://github.com/parin0824/Cache-Memory-Controller)**  
-  Direct-mapped cache controller with FSM-based control logic for cache operations.
+### Cache Memory Controller  
+Direct-mapped cache with FSM-based control, tag comparison, and memory interface.  
+🔗 https://github.com/parin0824/Cache-Memory-Controller  
 
-- **[FP8 MAC Unit](https://github.com/parin0824/FP8-MAC-Unit)**  
-  Floating-point MAC unit focused on compact precision arithmetic and hardware efficiency.
+</td>
+<td width="50%">
 
-- **[128-Bit Asynchronous Gray Code FIFO](https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO)**  
-  Dual-clock asynchronous FIFO using Gray code pointer synchronization for safe CDC.
+### FP8 MAC Unit  
+Low-precision floating-point MAC optimized for performance and hardware efficiency.  
+🔗 https://github.com/parin0824/FP8-MAC-Unit  
 
-- **[AXI-Lite Memory](https://github.com/parin0824/AXI-Lite-Memory)**  
-  AXI-Lite compatible memory-mapped design with protocol-compliant read/write behavior.
+</td>
+</tr>
 
-- **[APB Protocol](https://github.com/parin0824/APB-Protocol)**  
-  AMBA APB-based peripheral interface design and implementation project.
+<tr>
+<td>
 
-### ML + Hardware Project
+### 128-bit Async Gray FIFO  
+Dual-clock FIFO using Gray code pointer synchronization for CDC safety.  
+🔗 https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO  
 
-- **[ML Network Packet Classifier](https://github.com/parin0824/ML-Network-Packet-Classifier)**  
-  Packet classification project combining machine learning concepts with hardware-oriented implementation.
+</td>
+<td>
+
+### AXI-Lite Memory  
+Memory-mapped AXI-Lite slave with protocol-compliant read/write transactions.  
+🔗 https://github.com/parin0824/AXI-Lite-Memory  
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+### ML Packet Classifier  
+Hardware-oriented traffic classifier using ML features and pipeline design.  
+🔗 https://github.com/parin0824/ML-Network-Packet-Classifier  
+
+</td>
+<td>
+
+### APB Protocol Design  
+AMBA APB interface implementation with peripheral communication support.  
+🔗 https://github.com/parin0824/APB-Protocol  
+
+</td>
+</tr>
+</table>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
 ## Certifications
 
-- SystemVerilog Essentials – Udemy
-- UVM Essentials – Udemy
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
-
-## GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parin0824&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parin0824&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
-</p>
+- SystemVerilog Essentials – Udemy  
+- UVM Essentials – Udemy  
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=60&color=1a1b27&section=header&animation=twinkling" width="100%" />
 
