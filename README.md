@@ -51,11 +51,11 @@ Systems Engineer — TCS (Dec 2021 – Dec 2024)
 ## Highlighted Projects
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Highlighted%20Projects&fontSize=36&color=0:02040a,35:06152e,70:0a2a66,100:08111f&fontColor=4DA3FF&stroke=00C6FF" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=HIGHLIGHTED%20PROJECTS&fontSize=34&fontColor=4DA3FF&stroke=00C6FF&color=0:02040a,35:06152e,70:0a2a66,100:08111f" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=850&lines=Hardware+Design+Projects;Verification+Focused+Architecture;RTL+Implementation+and+Protocol+Design" />
+  <img src="https://readme-typing-svg.demolab.com?font=Audiowide&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=850&lines=Hardware+Design+Projects;Verification+Focused+Architecture;RTL+Implementation+and+Protocol+Design" />
 </p>
 
 <p align="center">
@@ -68,11 +68,15 @@ Systems Engineer — TCS (Dec 2021 – Dec 2024)
 
 <div align="center">
 
-### Cache Memory Controller
+### `Cache Memory Controller`
 
-<img src="https://img.shields.io/badge/FSM%20Control-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Tag%20Compare-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Memory%20Interface-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/FSM%20Control-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/Tag%20Compare-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Memory%20Interface-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -95,11 +99,15 @@ Structured memory transaction flow
 
 <div align="center">
 
-### FP8 MAC Unit
+### `FP8 MAC Unit`
 
-<img src="https://img.shields.io/badge/FP8-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/MAC%20Datapath-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Arithmetic%20Core-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/FP8-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/MAC%20Datapath-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Arithmetic%20Core-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -124,11 +132,15 @@ Performance-aware hardware structure
 
 <div align="center">
 
-### 128-Bit Async Gray FIFO
+### `128-Bit Async Gray FIFO`
 
-<img src="https://img.shields.io/badge/Async%20FIFO-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Gray%20Code-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/CDC%20Safe-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/Async%20FIFO-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/Gray%20Code-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/CDC%20Safe-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -151,11 +163,15 @@ Robust pointer management logic
 
 <div align="center">
 
-### AXI-Lite Memory
+### `AXI-Lite Memory`
 
-<img src="https://img.shields.io/badge/AXI--Lite-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Read%20Write-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Protocol%20Compliant-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/AXI--Lite-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/Read%20Write-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Protocol%20Compliant-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -180,11 +196,15 @@ Memory-mapped control structure
 
 <div align="center">
 
-### ML Network Packet Classifier
+### `ML Network Packet Classifier`
 
-<img src="https://img.shields.io/badge/ML%20Model-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Pipeline%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Traffic%20Classification-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/ML%20Model-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/Pipeline%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Traffic%20Classification-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -207,11 +227,15 @@ Efficient system-level implementation
 
 <div align="center">
 
-### APB Protocol
+### `APB Protocol`
 
-<img src="https://img.shields.io/badge/AMBA%20APB-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Peripheral%20Bus-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-<img src="https://img.shields.io/badge/Interface%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<p>
+  <img src="https://img.shields.io/badge/AMBA%20APB-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+  <img src="https://img.shields.io/badge/Peripheral%20Bus-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Interface%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+</p>
 
 </div>
 
@@ -231,6 +255,10 @@ Lightweight control-path design
 </td>
 </tr>
 </table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:4DA3FF,100:0047FF" width="88%" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:4DA3FF,100:0047F
