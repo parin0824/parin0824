@@ -97,7 +97,6 @@ Structured memory transaction flow
 <p align="left">
   <img src="https://img.shields.io/badge/FP8-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/MAC%20Datapath-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/Arithmetic%20Core-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
 </p>
 
 <div align="left">
@@ -126,7 +125,6 @@ Performance-aware hardware structure
 <p align="left">
   <img src="https://img.shields.io/badge/Async%20FIFO-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/Gray%20Code-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/CDC%20Safe-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
 </p>
 
 <div align="left">
@@ -153,7 +151,6 @@ Robust pointer management logic
 <p align="left">
   <img src="https://img.shields.io/badge/AXI--Lite-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/Read%20Write-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/Protocol%20Compliant-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
 </p>
 
 <div align="left">
@@ -208,7 +205,6 @@ Efficient system-level implementation
 <p align="left">
   <img src="https://img.shields.io/badge/AMBA%20APB-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
   <img src="https://img.shields.io/badge/Peripheral%20Bus-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
-  <img src="https://img.shields.io/badge/Interface%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
 </p>
 
 <div align="left">
