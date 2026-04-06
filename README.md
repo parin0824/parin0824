@@ -50,39 +50,190 @@ Systems Engineer — TCS (Dec 2021 – Dec 2024)
 
 ## Highlighted Projects
 
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=120&text=Highlighted%20Projects&fontSize=36&color=0:02040a,35:06152e,70:0a2a66,100:08111f&fontColor=4DA3FF&stroke=00C6FF" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=20&pause=1200&color=00C6FF&center=true&vCenter=true&width=850&lines=Hardware+Design+Projects;Verification+Focused+Architecture;RTL+Implementation+and+Protocol+Design" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:4DA3FF,100:0047FF" width="88%" />
+</p>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### Cache Memory Controller
+
+<img src="https://img.shields.io/badge/FSM%20Control-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Tag%20Compare-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Memory%20Interface-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
 ```text
-[Cache Memory Controller]
-Direct-mapped cache design
-FSM-based control logic
-Tag comparison + memory interface
-Link: github.com/parin0824/Cache-Memory-Controller
-
-[FP8 MAC Unit]
-Floating-point MAC (FP8)
-High-speed, hardware-efficient design
-Link: github.com/parin0824/FP8-MAC-Unit
-
-[128-bit Async Gray FIFO]
-Dual-clock FIFO
-Gray code pointer synchronization
-CDC-safe architecture
-Link: github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO
-
-[AXI-Lite Memory]
-AXI-Lite slave memory
-Protocol-compliant read/write
-Link: github.com/parin0824/AXI-Lite-Memory
-
-[ML Packet Classifier]
-ML-based traffic classification
-Pipeline-aware hardware design
-Link: github.com/parin0824/ML-Network-Packet-Classifier
-
-[APB Protocol]
-AMBA APB interface
-Peripheral communication design
-Link: github.com/parin0824/APB-Protocol
+Direct-mapped cache architecture
+FSM-driven control logic
+Tag validation and data handling
+Structured memory transaction flow
 ```
+
+<p align="center">
+  <a href="https://github.com/parin0824/Cache-Memory-Controller">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### FP8 MAC Unit
+
+<img src="https://img.shields.io/badge/FP8-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/MAC%20Datapath-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Arithmetic%20Core-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
+```text
+Floating-point multiply-accumulate unit
+Compact precision-focused computation
+Efficient arithmetic datapath design
+Performance-aware hardware structure
+```
+
+<p align="center">
+  <a href="https://github.com/parin0824/FP8-MAC-Unit">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### 128-Bit Async Gray FIFO
+
+<img src="https://img.shields.io/badge/Async%20FIFO-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Gray%20Code-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/CDC%20Safe-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
+```text
+Dual-clock asynchronous FIFO design
+Gray code pointer synchronization
+Reliable clock-domain crossing
+Robust pointer management logic
+```
+
+<p align="center">
+  <a href="https://github.com/parin0824/128-Bit-Asynchronous-Gray-Code-FIFO">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### AXI-Lite Memory
+
+<img src="https://img.shields.io/badge/AXI--Lite-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Read%20Write-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Protocol%20Compliant-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
+```text
+AXI-Lite slave memory subsystem
+Read and write transaction support
+Protocol-accurate interface behavior
+Memory-mapped control structure
+```
+
+<p align="center">
+  <a href="https://github.com/parin0824/AXI-Lite-Memory">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+
+### ML Network Packet Classifier
+
+<img src="https://img.shields.io/badge/ML%20Model-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Pipeline%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Traffic%20Classification-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
+```text
+ML-driven packet classification system
+Pipeline-aware hardware architecture
+Feature-based network traffic analysis
+Efficient system-level implementation
+```
+
+<p align="center">
+  <a href="https://github.com/parin0824/ML-Network-Packet-Classifier">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+
+<td width="50%" valign="top">
+
+<div align="center">
+
+### APB Protocol
+
+<img src="https://img.shields.io/badge/AMBA%20APB-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Peripheral%20Bus-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+<img src="https://img.shields.io/badge/Interface%20Design-08111f?style=for-the-badge&logoColor=4DA3FF&labelColor=02040a&color=0A2A66" />
+
+</div>
+
+```text
+AMBA APB protocol implementation
+Peripheral communication interface
+Clean bus transaction structure
+Lightweight control-path design
+```
+
+<p align="center">
+  <a href="https://github.com/parin0824/APB-Protocol">
+    <img src="https://img.shields.io/badge/View%20Project-08111f?style=for-the-badge&logo=github&logoColor=00C6FF&labelColor=02040a" />
+  </a>
+</p>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00C6FF,50:4DA3FF,100:0047F
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:00C6FF,100:0047FF" width="100%" />
 
