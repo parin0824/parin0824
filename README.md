@@ -29,9 +29,9 @@
 <br/>
 
 
-<img src="https://img.shields.io/badge/GPA-3.93%20%2F%204.0-00C6FF" />
+<img src="https://img.shields.io/badge/GPA-3.93" />
 &nbsp;
-<img src="https://img.shields.io/badge/2×%20AI%20Hackathon-Winner-FFD700" />
+<img src="https://img.shields.io/badge/2×%20AI%20Hackathon-Winner" />
 
 
 <br/><br/>
