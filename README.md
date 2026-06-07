@@ -28,13 +28,11 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/M.S.%20EE-SJSU-4DA3FF?style=flat-square&labelColor=020d22" />
+
+<img src="https://img.shields.io/badge/GPA-3.93%20%2F%204.0-00C6FF" />
 &nbsp;
-<img src="https://img.shields.io/badge/GPA-3.93%20%2F%204.0-00C6FF?style=flat-square&labelColor=020d22" />
-&nbsp;
-<img src="https://img.shields.io/badge/2×%20AI%20Hackathon-Winner-FFD700?style=flat-square&labelColor=020d22" />
-&nbsp;
-<img src="https://img.shields.io/badge/Focus-RTL%20%7C%20UVM%20%7C%20SoC-4DA3FF?style=flat-square&labelColor=020d22" />
+<img src="https://img.shields.io/badge/2×%20AI%20Hackathon-Winner-FFD700" />
+
 
 <br/><br/>
 
