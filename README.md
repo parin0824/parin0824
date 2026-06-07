@@ -3,11 +3,10 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000005,25:020818,50:041030,75:061848,100:040c28&section=header&animation=fadeIn&fontColor=4DA3FF&fontSize=0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=32&pause=1200&color=4DA3FF&center=true&vCenter=true&width=960&height=60&lines=PARIN+MISTRY;RTL+Design+%E2%80%A2+UVM+Verification+%E2%80%A2+SoC+Design;M.S.+Electrical+Engineering+%40+SJSU" alt="Parin Mistry" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=28&pause=1200&color=4DA3FF&center=true&vCenter=true&width=960&height=60&lines=PARIN+MISTRY;RTL+Design+%E2%80%A2+UVM+Verification+%E2%80%A2+SoC+Design;M.S.+Electrical+Engineering+%40+SJSU" alt="Parin Mistry" />
 
 <br/>
 
-<!-- Chip-die divider SVG -->
 <svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
   <line x1="0" y1="9" x2="260" y2="9" stroke="#0a2a66" stroke-width="1"/>
   <line x1="460" y1="9" x2="720" y2="9" stroke="#0a2a66" stroke-width="1"/>
@@ -29,8 +28,7 @@
 
 <br/>
 
-<!-- Badges -->
-<img src="https://img.shields.io/badge/M.S.%20EE-SJSU-4DA3FF?style=flat-square&logo=graduation-cap&logoColor=white&labelColor=020d22" />
+<img src="https://img.shields.io/badge/M.S.%20EE-SJSU-4DA3FF?style=flat-square&labelColor=020d22" />
 &nbsp;
 <img src="https://img.shields.io/badge/GPA-3.93%20%2F%204.0-00C6FF?style=flat-square&labelColor=020d22" />
 &nbsp;
@@ -44,65 +42,55 @@
 
 ---
 
-<!-- ABOUT ME -->
 ## `▸` About Me
 
-```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  Name        :  Parin Mistry                                                │
-│  Program     :  M.S. Electrical Engineering                                 │
-│  University  :  San Jose State University, San Jose CA                      │
-│  GPA         :  3.93 / 4.0                                                  │
-│  Focus       :  RTL Design · UVM Verification · SoC Design · FPGA          │
-│  Achievements:  2nd Place — AI Chip Hackathon 2026                          │
-│                 3rd Place — AI Chip Hackathon 2025                          │
-│  Target      :  ASIC RTL Design / DV Engineering                            │
-└─────────────────────────────────────────────────────────────────────────────┘
-```
+<div align="center">
 
-<!-- chip-trace divider -->
+| | |
+|:---|:---|
+| **Name** | Parin Mistry |
+| **Program** | M.S. Electrical Engineering |
+| **University** | San Jose State University, San Jose CA |
+| **GPA** | 3.93 / 4.0 |
+| **Focus** | RTL Design · UVM Verification · SoC Design · FPGA |
+| **Achievements** | 2nd Place — AI Chip Hackathon 2026 · 3rd Place — AI Chip Hackathon 2025 |
+| **Target** | ASIC RTL Design / DV Engineering |
+
+</div>
+
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020818,40:0a2a66,60:4DA3FF,100:020818" width="100%" />
 
 ---
 
-<!-- SKILLS -->
 ## `▸` Technical Skills
 
 ```
-┌── Languages ──────────────────────────────────────────────────────────────┐
-│  SystemVerilog  ·  Verilog  ·  UVM  ·  SVA  ·  Covergroups               │
-│  Python  ·  C/C++  ·  TCL  ·  SQL  ·  Bash                               │
-├── RTL & Design ───────────────────────────────────────────────────────────┤
-│  FSMs  ·  Pipelining  ·  CDC  ·  Low Power  ·  STA                       │
-│  DFT  ·  ATPG  ·  Manual Scan  ·  Timing Closure                         │
-├── Verification ───────────────────────────────────────────────────────────┤
-│  UVM Testbenches  ·  Constraint-Random  ·  Functional / Code Coverage     │
-│  AI-Assisted Verification  ·  Scoreboards  ·  Assertions (SVA)            │
-├── Protocols ──────────────────────────────────────────────────────────────┤
-│  SPI  ·  I2C  ·  UART  ·  APB  ·  AHB  ·  AXI Lite  ·  Ethernet         │
-│  PCIe (Basics)                                                             │
-├── EDA Tools ──────────────────────────────────────────────────────────────┤
-│  Synopsys VCS  ·  Design Compiler  ·  PrimeTime  ·  AMD Vivado            │
-│  Git  ·  Jira  ·  Lint  ·  Bash                                           │
-├── FPGA Boards ────────────────────────────────────────────────────────────┤
-│  AMD Nexys A7  ·  PYNQ Zybo Z7                                            │
-├── AI Tools ───────────────────────────────────────────────────────────────┤
-│  Cursor  ·  Antigravity  ·  Claude  ·  ChatGPT  ·  Gemini  ·  Cognichip  │
-└───────────────────────────────────────────────────────────────────────────┘
+Languages      :  SystemVerilog · Verilog · UVM · SVA · Covergroups · Python · C/C++ · TCL · SQL · Bash
+
+RTL & Design   :  FSMs · Pipelining · CDC · Low Power · STA · DFT · ATPG · Manual Scan · Timing Closure
+
+Verification   :  UVM Testbenches · Constraint-Random · Functional/Code Coverage · AI-Assisted Verification
+
+Protocols      :  SPI · I2C · UART · APB · AHB · AXI Lite · Ethernet · PCIe (Basics)
+
+EDA Tools      :  Synopsys VCS · Design Compiler · PrimeTime · AMD Vivado · Git · Jira · Lint · Bash
+
+FPGA Boards    :  AMD Nexys A7 · PYNQ Zybo Z7
+
+AI Tools       :  Cursor · Antigravity · Claude · ChatGPT · Gemini · Cognichip
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020818,40:0a2a66,60:4DA3FF,100:020818" width="100%" />
 
 ---
 
-<!-- PROJECTS -->
 ## `▸` Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔲 FlashAttention-Inspired Tiled Causal Self-Attention Accelerator
+### FlashAttention-Inspired Tiled Causal Self-Attention Accelerator
 `SystemVerilog` `AI Hardware`
 
 Tiled, memory-efficient causal self-attention accelerator in SystemVerilog, inspired by the FlashAttention architecture. Designed for high-throughput inference with reduced SRAM pressure.
@@ -110,61 +98,61 @@ Tiled, memory-efficient causal self-attention accelerator in SystemVerilog, insp
 </td>
 <td width="50%" valign="top">
 
-### 🔲 High-Speed AI Engine with Ring Bus
+### High-Speed AI Engine with Ring Bus
 `SystemVerilog` `DSP` `1 GHz`
 
-1 GHz DSP-style MAC engine with **42 parallel E5M6** floating-point multiply-accumulate ops, pipelined fixed-point `(24.24)` accumulation and 48-bit precision output, integrated into a **1008-bit token-based ring bus** with a central HUB across four processing units.
+1 GHz DSP-style MAC engine with 42 parallel E5M6 floating-point multiply-accumulate ops, pipelined fixed-point (24.24) accumulation and 48-bit precision output. Integrated into a 1008-bit token-based ring bus with a central HUB across four processing units.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔲 UVM Verification — IEEE 802.3 1000BASE-X Ethernet PHY
+### UVM Verification — IEEE 802.3 1000BASE-X Ethernet PHY
 `UVM` `SystemVerilog` `Ethernet`
 
-Full UVM environment with layered agents, drivers, monitors, and a **Golden Predictor Scoreboard**. Implements 33-bit LFSR state tracking, convolutional subset selection, and quinary symbol mapping for bit-accurate DUT comparison.
+Full UVM environment with layered agents, drivers, monitors, and a Golden Predictor Scoreboard. Implements 33-bit LFSR state tracking, convolutional subset selection, and quinary symbol mapping for bit-accurate DUT comparison.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔲 1000BASE-X Ethernet PCS Transmit Encoder
+### 1000BASE-X Ethernet PCS Transmit Encoder
 `SystemVerilog` `160 MHz` `8B/10B`
 
-Designed a 160 MHz PCS Transmit encoder using 8B/10B coding per IEEE Std 802.3-2012. Features running disparity tracking for DC balance and FIFO buffering for multi-cycle ordered sets (`/S/`, `/T/`, `/R/`).
+160 MHz PCS Transmit encoder using 8B/10B coding per IEEE Std 802.3-2012. Features running disparity tracking for DC balance and FIFO buffering for multi-cycle ordered sets (/S/, /T/, /R/).
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔲 I2C Controller Verification with UVM
+### I2C Controller Verification with UVM
 `UVM` `I2C` `APB` `Coverage`
 
-Led a 3-member team verifying 5 encrypted I2C controller designs (APB slave + I2C master). Built a reusable UVM testbench; executed **40+ directed and constrained-random tests** — achieving **85% code coverage** and **90% functional coverage**.
+Led a 3-member team verifying 5 encrypted I2C controller designs (APB slave + I2C master). Built a reusable UVM testbench; executed 40+ directed and constrained-random tests — achieving 85% code coverage and 90% functional coverage.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔲 Multi-Core Cache Controller with MESI Coherence
+### Multi-Core Cache Controller with MESI Coherence
 `SystemVerilog` `Cache` `MESI`
 
-Dual-core snooping cache with **8-state FSM**, 4-way set-associative structure, parallel tag matching, LRU matrix eviction, and a bus arbiter for simultaneous memory requests from both cores.
+Dual-core snooping cache with 8-state FSM, 4-way set-associative structure, parallel tag matching, LRU matrix eviction, and a bus arbiter for simultaneous memory requests from both cores.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔲 ML-Based Network Packet Classifier
+### ML-Based Network Packet Classifier
 `Cognichip AI` `RTL` `Low Power` `🏆 3rd Place`
 
-Trained a decision tree on real traffic header data via Cognichip AI, converted to synthesizable RTL at **~98% test accuracy**. Low-power pipelined SV module with clock gating and gray-coded outputs to minimize switching activity.
+Decision tree trained on real traffic header data via Cognichip AI, converted to synthesizable RTL at ~98% test accuracy. Low-power pipelined SV module with clock gating and gray-coded outputs to minimize switching activity.
 
 </td>
 <td width="50%" valign="top">
 
-### 🔲 Async FIFO · SPI · UART · APB Implementations
+### Async FIFO · SPI · UART · APB Implementations
 `Verilog` `SystemVerilog` `Protocols`
 
 RTL implementations of a full async FIFO with gray-code pointer synchronization, plus SPI, UART, and APB protocol modules — each with comprehensive testbench environments.
@@ -177,34 +165,31 @@ RTL implementations of a full async FIFO with gray-code pointer synchronization,
 
 ---
 
-<!-- EXPERIENCE -->
 ## `▸` Experience
 
 ```
-┌─────────────────────────────────────────────────────────────────────────────┐
-│  TEACHING ASSOCIATE  —  San Jose State University     Aug 2025 – Present    │
-│                                                                             │
-│  ▸ Instruct core signals & systems: time/frequency-domain convolution,      │
-│    signal scaling, and symbolic modeling via Python and LTspice             │
-│  ▸ Mentor active filter synthesis using ADALM2000 spectrum analysis         │
-│    and FFT verification to root-cause signal distortion in PWM DAC labs     │
-├─────────────────────────────────────────────────────────────────────────────┤
-│  SYSTEMS ENGINEER  —  Tata Consultancy Services, India  Dec 2021 – Dec 2024 │
-│                                                                             │
-│  ▸ Executed verification plans with cross-continental teams (US/IE/UK),     │
-│    isolating 20+ critical design defects early in the development cycle     │
-│  ▸ Built Python test automation suites paired with React JS dashboards      │
-│    for regression monitoring and accelerated CI/CD deployments              │
-│  ▸ Root-caused and resolved 100+ bugs and performance bottlenecks           │
-│    on legacy platforms to enhance system reliability                        │
-└─────────────────────────────────────────────────────────────────────────────┘
+Teaching Associate  —  San Jose State University                  Aug 2025 – Present
+
+  Instruct core signals & systems: time/frequency-domain convolution,
+  signal scaling, and symbolic modeling via Python and LTspice.
+  Mentor active filter synthesis using ADALM2000 spectrum analysis
+  and FFT verification to root-cause signal distortion in PWM DAC labs.
+
+
+Systems Engineer  —  Tata Consultancy Services, India         Dec 2021 – Dec 2024
+
+  Executed verification plans with cross-continental teams (US / Ireland / UK),
+  isolating 20+ critical design defects early in the development cycle.
+  Built Python test automation suites paired with React JS dashboards
+  for regression monitoring and accelerated CI/CD deployments.
+  Root-caused and resolved 100+ bugs and performance bottlenecks
+  on legacy platforms to enhance system reliability.
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020818,40:0a2a66,60:4DA3FF,100:020818" width="100%" />
 
 ---
 
-<!-- CONNECT -->
 ## `▸` Connect
 
 <div align="center">
@@ -224,7 +209,6 @@ RTL implementations of a full async FIFO with gray-code pointer synchronization,
 
 <br/><br/>
 
-<!-- Chip die footer divider -->
 <svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
   <line x1="0" y1="9" x2="260" y2="9" stroke="#0a2a66" stroke-width="1"/>
   <line x1="460" y1="9" x2="720" y2="9" stroke="#0a2a66" stroke-width="1"/>
