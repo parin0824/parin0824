@@ -31,12 +31,6 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/GPA-3.93%20%2F%204.0-4DA3FF?style=flat-square&labelColor=020818" />
-&nbsp;
-<img src="https://img.shields.io/badge/2%C3%97%20Hackathon-Winner-4DA3FF?style=flat-square&labelColor=020818" />
-
-
-<br/><br/>
 
 </div>
 
