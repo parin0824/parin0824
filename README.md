@@ -3,8 +3,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000005,25:020818,50:041030,75:061848,100:040c28&section=header&animation=fadeIn&fontColor=4DA3FF&fontSize=0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&pause=1200&color=4DA3FF&center=true&vCenter=true&width=960&height=60&lines=PARIN+MISTRY;RTL+Design+%E2%80%A2+UVM+Verification+%E2%80%A2+SoC+Design;M.S.+Electrical+Engineering+%40+SJSU" alt="Parin Mistry" />
-
+<img src="https://readme-typing-svg.demolab.com?font=Exo+2&weight=700&size=28&pause=1200&color=4DA3FF&center=true&vCenter=true&width=960&height=60&lines=PARIN+MISTRY;RTL+Design+%E2%80%A2+UVM+Verification+%E2%80%A2+SoC+Design;M.S.+Electrical+Engineering+%40+SJSU" alt="Parin Mistry" />
 <br/>
 
 <svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
