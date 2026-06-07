@@ -3,15 +3,11 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:000005,25:020818,50:041030,75:061848,100:040c28&section=header&animation=fadeIn&fontColor=4DA3FF&fontSize=0" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&lines=Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=0&color=4DA3FF&center=true&vCenter=true&width=900&duration=2000&lines=Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=3000&color=4DA3FF&center=true&vCenter=true&width=900&duration=4000&lines=Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&repeat=false&lines=Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
-
-<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=30&pause=1000&color=4DA3FF&center=true&vCenter=true&width=900&random=true&lines=Parin+Mistry;MS+Electrical+Engineering+%40+SJSU;RTL+Design+%7C+UVM+Verification+%7C+SoC+Design" />
 <br/>
 
 <svg width="720" height="18" viewBox="0 0 720 18" xmlns="http://www.w3.org/2000/svg">
