@@ -118,27 +118,7 @@ Full UVM environment with layered agents, drivers, monitors, and a Golden Predic
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
 
-### I2C Controller Verification with UVM
-`UVM` `I2C` `APB` `Coverage`
-
-Led a 3-member team verifying 5 encrypted I2C controller designs (APB slave + I2C master). Built a reusable UVM testbench; executed 40+ directed and constrained-random tests — achieving 85% code coverage and 90% functional coverage.
-
-</td>
-
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### ML-Based Network Packet Classifier
-`Cognichip AI` `RTL` `Low Power` `🏆 3rd Place`
-
-Decision tree trained on real traffic header data via Cognichip AI, converted to synthesizable RTL at ~98% test accuracy. Low-power pipelined SV module with clock gating and gray-coded outputs to minimize switching activity.
-
-</td>
-
-</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:020818,40:0a2a66,60:4DA3FF,100:020818" width="100%" />
