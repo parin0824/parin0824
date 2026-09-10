@@ -126,14 +126,7 @@ Full UVM environment with layered agents, drivers, monitors, and a Golden Predic
 Led a 3-member team verifying 5 encrypted I2C controller designs (APB slave + I2C master). Built a reusable UVM testbench; executed 40+ directed and constrained-random tests — achieving 85% code coverage and 90% functional coverage.
 
 </td>
-<td width="50%" valign="top">
 
-### Multi-Core Cache Controller with MESI Coherence
-`SystemVerilog` `Cache` `MESI`
-
-Dual-core snooping cache with 8-state FSM, 4-way set-associative structure, parallel tag matching, LRU matrix eviction, and a bus arbiter for simultaneous memory requests from both cores.
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
@@ -144,14 +137,7 @@ Dual-core snooping cache with 8-state FSM, 4-way set-associative structure, para
 Decision tree trained on real traffic header data via Cognichip AI, converted to synthesizable RTL at ~98% test accuracy. Low-power pipelined SV module with clock gating and gray-coded outputs to minimize switching activity.
 
 </td>
-<td width="50%" valign="top">
 
-### Async FIFO · SPI · UART · APB Implementations
-`Verilog` `SystemVerilog` `Protocols`
-
-RTL implementations of a full async FIFO with gray-code pointer synchronization, plus SPI, UART, and APB protocol modules — each with comprehensive testbench environments.
-
-</td>
 </tr>
 </table>
 
